@@ -1,0 +1,12 @@
+open("shdhhdhhd.txt","w")
+    
+    
+
+
+
+
+
+
+
+
+
